@@ -1,3 +1,4 @@
+package strategy;
 public class Sorter {
     private final SortStrategy sortStrategy;
 
